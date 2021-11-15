@@ -26,9 +26,8 @@ currently im sharpening my skills in the MERN (Mongo,Express,React,Node) stack.
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaacHeYe704&repo=validadorDirecciones)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **IsaacHeYe704/IsaacHeYe704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
