@@ -2,7 +2,8 @@
 
 My name is Isaac Herrera Yepes i am a Informatic engineering student at Universidad de la Sabana in Colombia, I'm passionate about web development.
 currently im sharpening my skills in the MERN (Mongo,Express,React,Node) stack. 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacHeYe704&layout=compact&theme=buefy&hide_border=true" /></a> |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacHeYe704)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 <!--
